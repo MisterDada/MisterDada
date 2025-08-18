@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a mobile developer passionate about building high-performing, user-friendly apps with React Native. I specialize in creating smooth cross-platform experiences, from UI design to backend integration.
+I'm a mobile developer building high-performing, user-friendly apps with React Native. I specialize in creating smooth cross-platform experiences, from UI design to backend integration.
 
 ## Projects
 
