@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a full stack developer building user-friendly apps with React Native and now making a transition into backend development with pythom ( Django ).
+I'm a full stack developer building user-friendly apps with React Native and Expressjs, now making a transition into backend development with pythom ( Django ).
 
 
  # 💻 Tech Stack:
